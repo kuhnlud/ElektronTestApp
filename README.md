@@ -1,2 +1,0 @@
-# ElektronTestApp
-Elektron Test Application
